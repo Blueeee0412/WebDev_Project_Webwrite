@@ -17,7 +17,7 @@ h1 {
 }
 
 
-h2{
+.subtitle1{
     color:brown;
    font-family: monospace;
    font-size: xx-large;
@@ -25,6 +25,7 @@ h2{
    text-align: justify;
     width: 10rem;
 }
+
 .firstcar {
     
     color: brown;
